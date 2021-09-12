@@ -1,0 +1,37 @@
+
+.go{
+    margin-left:10%;
+    margin-right: 10%;;
+    width:80%;
+padding-top:50px;
+height:100vh;
+
+}
+.go h2{
+    margin-right: 10px;
+    text-align:center;
+    font-weight:500;
+    font-size:34px;
+    color:#454545;
+}
+.go input{
+    font-size:18px;
+    width:100%;
+    margin-top:5px;
+    padding:5px 4px;
+    font-weight:400;
+    box-sizing: border-box;
+    border-radius: 0%;
+}
+button{
+    background: #03a9f4;
+    font-size:20px;
+    padding:8px;
+    color:#fff;
+    margin-top:10px;
+    border:0px;
+    cursor:pointer;
+}
+.error{
+    font-size:15px;
+}

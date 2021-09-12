@@ -1,0 +1,40 @@
+
+  .list{
+    padding-bottom: 20px;
+  }
+  .former{
+    margin-left:10%;
+    margin-right: 10%;;
+    width:80%;
+height:auto;
+padding-top:50px;
+padding-bottom:15px;
+
+}
+.former h2{
+  font-size:34px;
+    color:#454545;
+}
+.former input{
+    font-size:18px;
+    width:100%;
+    margin-top:5px;
+    padding:5px 4px;
+    font-weight:400;
+    box-sizing: border-box;
+    border-radius: 0%;
+}
+button{
+    background: #03a9f4;
+    font-size:20px;
+    padding:8px;
+    color:#fff;
+    margin-top:10px;
+    border:0px;
+}
+.left{
+    margin-left:10px;
+}
+.error{
+  font-size:15px;
+}

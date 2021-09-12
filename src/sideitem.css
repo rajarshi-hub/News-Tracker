@@ -1,0 +1,13 @@
+.options{
+    color:#dfdfdf;
+    font-size:15px;
+    font-weight:400;
+    padding:10px;
+    border-bottom:1px solid #404040;
+    display:flex;
+}
+.options .item{
+    margin-right:13px;
+
+
+}

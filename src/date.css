@@ -1,0 +1,13 @@
+.date_wrap{
+    border:1px solid #A0A0A0;
+    background: #fff;
+    padding:9px;
+    font-size:15px;
+    font-weight:500;
+    color:#303030;
+
+}
+.info_wrap{
+    margin-bottom: 12px;
+    margin-top:12px;
+}

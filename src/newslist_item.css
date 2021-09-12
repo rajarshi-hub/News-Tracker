@@ -1,0 +1,28 @@
+
+a:link{
+    text-decoration: none;
+}
+.card{
+    border:1px solid 	#909090;
+    background:#ffff;
+    padding:5px 5px 0 5px;
+    margin-left:8px;
+    margin-right:8px;
+    text-decoration:none;
+
+}
+.news_title{
+    font-size:16px;
+    font-weight:600;
+    text-decoration:none;
+    line-height: 20px;
+    color:#525252;
+    padding-bottom:8px;
+}
+@media only screen and (max-width: 400px) {
+    .news_title{
+        font-size:12px;
+        font-weight:500;
+  
+    }
+  }

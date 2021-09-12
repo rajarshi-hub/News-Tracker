@@ -1,0 +1,26 @@
+.cover{
+    margin-bottom:10px;
+    margin-top:8px;
+    margin-left:5px;
+    margin-right:5px;
+}
+.but{
+    background: #2196f3;
+    border-bottom: 1px solid #d7d7d7;
+    font-weight:600;
+    color:#eeeeee;
+    padding-top: 5px;
+    padding-bottom:5px;
+    cursor:pointer;
+    font-size: 15px;
+    width:100%;
+    text-align:center;
+    text-decoration:none;
+}
+h2{
+    margin-right: 10px;
+    text-align:center;
+    font-weight:500;
+    font-size:34px;
+    color:#454545;
+}

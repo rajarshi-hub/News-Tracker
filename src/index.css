@@ -1,0 +1,17 @@
+
+body{
+  margin-top:10px;
+  overflow-x: hidden;
+  width: 30vw;
+  margin-left:35%;
+  margin-right:35%;
+  border:0.0001em solid #989898;
+  overflow-x: hidden;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    width:auto;
+    margin:0;
+
+  }
+}
